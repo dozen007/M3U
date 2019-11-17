@@ -88,7 +88,8 @@ http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
 http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
 #EXTINF:-1 group-title="海外台",MTV Live
 http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
-#EXTINF:-1 group-title="海外台",NHK HD
+#EXTINF:-1 group-title="海外台",美国中文卫视
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="海外台",美国芝加哥WGN9频道HD
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 group-title="海外台",美国Deutsche Welle
@@ -99,13 +100,17 @@ http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlis
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1 group-title="海外台",美国Red Bull TV SD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="海外台",印度卫视
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1 group-title="海外台",卡塔尔半岛
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/appleman.m3u8
+#EXTINF:-1 group-title="海外台",沙特麦加电视台makkahtv
+http://jmc-live.ercdn.net/makkahtv/makkahtv_360p.m3u8
+#EXTINF:-1 group-title="海外台",韩国教育EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1282911385.m3u8
+#EXTINF:-1 group-title="海外台",NTV-News24
+http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 group-title="海外台",CNN NEWS
-#EXTINF:-1 group-title="海外台",CNN NEWS
-#EXTINF:-1 group-title="海外台",CNN NEWS
-#EXTINF:-1 group-title="海外台",CNN NEWS
-#EXTINF:-1 group-title="海外台",CNN NEWS
-#EXTINF:-1 group-title="海外台",CNN NEWS
-
 
 #EXTINF:-1 group-title="卫视台",广西卫视
 http://39.135.36.158:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
@@ -210,6 +215,87 @@ http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
 http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
 #EXTINF:-1 group-title="香港",新加坡亚洲新闻台
 http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
+#EXTINF:-1 group-title="香港",香港奇妙电视
+﻿http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="香港",香港奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="香港",翡翠台
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:-1 group-title="香港",普通话翡翠台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 group-title="香港",TVBJ5-无线财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 group-title="香港",TVBJ5-无线财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1412641159_b448000.m3u8
+#EXTINF:-1 group-title="香港",J2
+http://h.bertiechina.cn/atv/01kjzcom.m3u8
+#EXTINF:-1 group-title="香港",J2
+http://3085710030.cloudvdn.com/a.m3u8?domain=hls.mlink.tv&player=zC0AAJ3Ue7YAjHYV&streamid=mlink%3Amlink%2Fch0037&v3=1
+#EXTINF:-1 group-title="香港",凤凰资讯HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯台
+http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯HD
+http://183.251.61.221/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰卫视资讯台
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://u6.gg/eG5DU
+#EXTINF:-1 group-title="香港",凤凰资讯HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="香港",凤凰香港台
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰卫视香港台
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰中文HD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰卫视高清
+http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰美洲
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+#EXTINF:-1 group-title="香港",NOWTV
+http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
+#EXTINF:-1 group-title="香港",香港31台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="香港",香港600新闻
+http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
+#EXTINF:-1 group-title="香港",卫视卡式台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+
+#EXTINF:-1 group-title="澳门",澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="澳门",澳视体育
+http://103.233.191.135/ch4/_definst_/sport_ch4.live/chunklist_w1798618527.m3u8
+#EXTINF:-1 group-title="澳门",澳门莲花
+rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+#EXTINF:-1 group-title="澳门",澳門立法會
+http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳视葡文台
+http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视资讯台
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视高清台
+http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视葡文台
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视卫视台
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视卫视台
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视资讯台
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视资讯台
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门澳视资讯台
+http://103.233.191.135:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门卫视台
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="澳门",澳丫卫视台
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="澳门",澳视澳门台
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="澳门",澳视高清体育台
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",中视新闻[HD]
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
