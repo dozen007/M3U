@@ -89,6 +89,23 @@ http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
 #EXTINF:-1 group-title="海外台",MTV Live
 http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
 #EXTINF:-1 group-title="海外台",NHK HD
+#EXTINF:-1 group-title="海外台",美国芝加哥WGN9频道HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 group-title="海外台",美国Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="海外台",美国360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 group-title="海外台",美国Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 group-title="海外台",美国Red Bull TV SD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="海外台",CNN NEWS
+#EXTINF:-1 group-title="海外台",CNN NEWS
+#EXTINF:-1 group-title="海外台",CNN NEWS
+#EXTINF:-1 group-title="海外台",CNN NEWS
+#EXTINF:-1 group-title="海外台",CNN NEWS
+#EXTINF:-1 group-title="海外台",CNN NEWS
+
 
 #EXTINF:-1 group-title="卫视台",广西卫视
 http://39.135.36.158:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
