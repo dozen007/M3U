@@ -34,84 +34,6 @@ http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 #EXTINF:-1 group-title="中央台",CCTV17
 http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2fJbtYz8kEYu99sUSfTSd48Av%2fzOzjC1
 
-#EXTINF:-1 group-title="海外台",CNN NEWS
-http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-#EXTINF:-1 group-title="海外台",SKY NEWS
-http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
-#EXTINF:-1 group-title="海外台",NHK WORLD
-http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
-#EXTINF:-1 group-title="海外台",BBC World News
-http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
-#EXTINF:-1 group-title="海外台",BBC Lifestyle
-http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
-#EXTINF:-1 group-title="海外台",BBC earth
-http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
-#EXTINF:-1 group-title="海外台",FOX News
-http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
-#EXTINF:-1 group-title="海外台",FOX HD
-http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
-#EXTINF:-1 group-title="海外台",FOX SPORTS[HD]
-http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
-#EXTINF:-1 group-title="海外台",FOX SPORTS2[HD]
-http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
-#EXTINF:-1 group-title="海外台",FOX SPORTS3
-http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-#EXTINF:-1 group-title="海外台",FOX MOVIES[HD]
-http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
-#EXTINF:-1 group-title="海外台",FOX CRIME
-http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
-#EXTINF:-1 group-title="海外台",HBO HD
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
-#EXTINF:-1 group-title="海外台",HBO Hits
-http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-#EXTINF:-1 group-title="海外台",HBO Signature
-http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-#EXTINF:-1 group-title="海外台",HBO Family
-http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
-#EXTINF:-1 group-title="海外台",Discovery Asia
-http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
-#EXTINF:-1 group-title="海外台",Discovery[HD]
-http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
-#EXTINF:-1 group-title="海外台",Discovery科学[HD]
-http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
-#EXTINF:-1 group-title="海外台",国家地理悠人
-http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 group-title="海外台",国家地理野生
-http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-#EXTINF:-1 group-title="海外台",国家地理HD
-http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
-#EXTINF:-1 group-title="海外台",历史频道
-http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
-#EXTINF:-1 group-title="海外台",历史频道2
-http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
-#EXTINF:-1 group-title="海外台",Channel V
-http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
-#EXTINF:-1 group-title="海外台",MTV Live
-http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
-#EXTINF:-1 group-title="海外台",美国中文卫视
-http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="海外台",美国芝加哥WGN9频道HD
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 group-title="海外台",美国Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 group-title="海外台",美国360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 group-title="海外台",美国Fox News Talk Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-title="海外台",美国Red Bull TV SD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="海外台",印度卫视
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1 group-title="海外台",卡塔尔半岛
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/appleman.m3u8
-#EXTINF:-1 group-title="海外台",沙特麦加电视台makkahtv
-http://jmc-live.ercdn.net/makkahtv/makkahtv_360p.m3u8
-#EXTINF:-1 group-title="海外台",韩国教育EBS1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1282911385.m3u8
-#EXTINF:-1 group-title="海外台",NTV-News24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 group-title="海外台",CNN NEWS
-
 #EXTINF:-1 group-title="卫视台",广西卫视
 http://39.135.36.158:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
 #EXTINF:-1 group-title="卫视台",湖南卫视
@@ -523,6 +445,437 @@ http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
 http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
 #EXTINF:-1 group-title="台湾",Bloombreg TV
 http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
+
+#EXTINF:-1 group-title="海外台",CNN NEWS
+http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
+#EXTINF:-1 group-title="海外台",SKY NEWS
+http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
+#EXTINF:-1 group-title="海外台",NHK WORLD
+http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
+#EXTINF:-1 group-title="海外台",BBC World News
+http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
+#EXTINF:-1 group-title="海外台",BBC Lifestyle
+http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
+#EXTINF:-1 group-title="海外台",BBC earth
+http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
+#EXTINF:-1 group-title="海外台",FOX News
+http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+#EXTINF:-1 group-title="海外台",FOX HD
+http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
+#EXTINF:-1 group-title="海外台",FOX SPORTS[HD]
+http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
+#EXTINF:-1 group-title="海外台",FOX SPORTS2[HD]
+http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
+#EXTINF:-1 group-title="海外台",FOX SPORTS3
+http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+#EXTINF:-1 group-title="海外台",FOX MOVIES[HD]
+http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
+#EXTINF:-1 group-title="海外台",FOX CRIME
+http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
+#EXTINF:-1 group-title="海外台",HBO HD
+http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
+#EXTINF:-1 group-title="海外台",HBO Hits
+http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
+#EXTINF:-1 group-title="海外台",HBO Signature
+http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+#EXTINF:-1 group-title="海外台",HBO Family
+http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
+#EXTINF:-1 group-title="海外台",Discovery Asia
+http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+#EXTINF:-1 group-title="海外台",Discovery[HD]
+http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
+#EXTINF:-1 group-title="海外台",Discovery科学[HD]
+http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
+#EXTINF:-1 group-title="海外台",国家地理悠人
+http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
+#EXTINF:-1 group-title="海外台",国家地理野生
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
+#EXTINF:-1 group-title="海外台",国家地理HD
+http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
+#EXTINF:-1 group-title="海外台",历史频道
+http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
+#EXTINF:-1 group-title="海外台",历史频道2
+http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
+#EXTINF:-1 group-title="海外台",Channel V
+http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
+#EXTINF:-1 group-title="海外台",MTV Live
+http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flv
+#EXTINF:-1 group-title="海外台",美国中文卫视
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",美国芝加哥WGN9频道HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 group-title="海外台",美国Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="海外台",美国360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 group-title="海外台",美国Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 group-title="海外台",美国Red Bull TV SD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="海外台",印度卫视
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1 group-title="海外台",卡塔尔半岛
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/appleman.m3u8
+#EXTINF:-1 group-title="海外台",沙特麦加电视台makkahtv
+http://jmc-live.ercdn.net/makkahtv/makkahtv_360p.m3u8
+#EXTINF:-1 group-title="海外台",韩国教育EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1282911385.m3u8
+#EXTINF:-1 group-title="海外台",NTV-News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="海外台",CNN NEWS
+#EXTINF:-1 group-title="海外台",日本卫星剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",Family Gekijyo
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:-1 group-title="海外台",History
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:-1 group-title="海外台",Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+#EXTINF:-1 group-title="海外台",Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+#EXTINF:-1 group-title="海外台",Cinefil WOWOW
+http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+#EXTINF:-1 group-title="海外台",俄罗斯电影台
+http://v1.proofix.ru/live-tv8-2/europe/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",Hope俄罗斯
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",希腊KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="海外台",希腊VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="海外台",TV-chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",SEA-TV
+http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外台",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外台",ТВ-Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",МИР-HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="海外台",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="海外台",РЖД-ТВ-HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",RU-TBU
+http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",RU-MNP
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="海外台",2radio-farda
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/index_0540_av-b.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Lancelot-TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Lebrija-TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Levante-TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Real-Madrid-TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Real-Madrid-TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Real-Madrid-TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-7-Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Aragon-TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-Canal-Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-ETB-Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="海外台",SPAIN-IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1 group-title="海外台",DENMARK-TV-Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 group-title="海外台",NORWAY-MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="海外台",FRANCE-Alsace-20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="海外台",BRAZIL-Amazon-Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",BRAZIL-TV-Assembleia-SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="海外台",BRAZIL-TVE-Bahia
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 group-title="海外台",DENMARK-TV-Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 group-title="海外台",NORWAY-MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="海外台",FRANCE-Alsace-20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u
+#EXTINF:-1 group-title="海外台",ITALY-m20-TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Radio-105-TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Radio-Italia-TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Radio-Monte-Carlo
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Rai-Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Rai-Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+#EXTINF:-1 group-title="海外台",ITALY-Sky-TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 group-title="海外台",GERMANY-Blizz-TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 group-title="海外台",GERMANY-Deutsche-Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 group-title="海外台",GERMANY-Deutsche-Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@16/master.m3u8
+#EXTINF:-1 group-title="海外台",GERMANY-HR-Fernsehen
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 group-title="海外台",NEW-ZEALAND-TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1 group-title="海外台",NEW-ZEALAND-Wairarapa-TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 group-title="海外台",IRELAND-TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 group-title="海外台",NHK-World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
+#EXTINF:-1 group-title="海外台",ARABIC-NEWS-BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="海外台",IRAN-BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-Milenio-TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-Once-TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-Canal-Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-Telemar
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-RCG-1-TV
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-RCG-2-TV
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="海外台",MEXICO-RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="海外台",CHILE-Pinguino-TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1 group-title="海外台",CHILE-Pinguino-TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+#EXTINF:-1 group-title="海外台",CHILE-Portal-Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="海外台",CHILE-UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 group-title="海外台",CHILE-UMAG-TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 group-title="海外台",COSTA-RICA-HBTV Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="海外台",COSTA-RICA-Telered
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 group-title="海外台",PERU-Sol-TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-1 group-title="海外台",PERU-TV-Noticias-7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+#EXTINF:-1 group-title="海外台",PERU-TV-Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+#EXTINF:-1 group-title="海外台",PERU-Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="海外台",PANAMA-NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 group-title="海外台",MOLDOVA-Publika-TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 group-title="海外台",MOLDOVA-TV-Elita
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 group-title="海外台",SERBIA-TV-Duga
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 group-title="海外台",CZECH-REP-Elektrika-TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外台",CYPRUS-Sigma-TV (Greek)
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="海外台",TURKEY-TRT-Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 group-title="海外台",TURKEY-TRT-Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 group-title="海外台",TURKEY-TRT-Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 group-title="海外台",TURKEY-TRT-Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 group-title="海外台",TURKEY-TRT-Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 group-title="海外台",KURDISTAN-TRT-Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 group-title="海外台",PAKISTAN-Dunya-TV
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",PAKISTAN-Eye-95-TV (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 group-title="海外台",PAKISTAN-Geo-News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1 group-title="海外台",PAKISTAN-PTV-News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+#EXTINF:-1 group-title="海外台",IRAN-Radio-Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 group-title="海外台",ARABIC-NEWS-Al-Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="海外台",ARABIC-NEWS-Deutsche-Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 group-title="海外台",ARABIC-NEWS-TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 group-title="海外台",LEBANON-Future-TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 group-title="海外台",LEBANON-Al-Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1 group-title="海外台",SYRIA-ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 group-title="海外台",IRAQ-Sharqiya-News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",UAE-Al-Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1 group-title="海外台",UAE-Emarat-TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 group-title="海外台",UAE-Dubai-One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 group-title="海外台",UAE-Dubai-Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 group-title="海外台",UAE-Abu-Dhabi-TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 group-title="海外台",UAE-Abu-Dhabi-Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 group-title="海外台",UAE-Abu-Dhabi-Sports-1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="海外台",UAE-Abu-Dhabi-Sports-1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 group-title="海外台",UAE-Abu-Dhabi-Sports-2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="海外台",UAE-Abu-Dhabi-Sports-2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 group-title="海外台",QATAR-Al-Jazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1 group-title="海外台",QATAR-Al-Kass-Sports2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="海外台",QATAR-Al-Kass-Sports3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="海外台",QATAR-Al-Kass-Sports4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="海外台",KUWAIT-Al-Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-1
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-Al-Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",KUWAIT-KTV-Al-Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",LIBYA-Libya-TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1 group-title="海外台",INDONESIA-TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1 group-title="海外台",SOUTH-KOREA-Arirang (English)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",SOUTH-KOREA-CBS-TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 group-title="海外台",SOUTH-KOREA-TV-Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",CHINA-CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="海外台",CHINA-CGTN-Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 group-title="海外台",半岛电视Ai-Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="海外台",越南和平HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 group-title="海外台",越南ptp
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 group-title="海外台",越南ktv
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1 group-title="海外台",越南thtg
+http://210.245.20.94/hls/ktv2.m3u8
+#EXTINF:-1 group-title="海外台",越南PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 group-title="海外台",越南KGTV
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="海外台",韩国-CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",韩国-Good
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外台",韩国GoodTV（HD）
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外台",ebs1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w877483320.m3u8
+#EXTINF:-1 group-title="海外台",ebs2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist_w243599202.m3u8
+#EXTINF:-1 group-title="海外台",TVchosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",ebsE
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist_w559058945.m3u8
+#EXTINF:-1 group-title="海外台",ebsPlus1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/chunklist_w1713489796.m3u8
+#EXTINF:-1 group-title="海外台",ebsPlus2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/chunklist_w257173286.m3u8
+#EXTINF:-1 group-title="海外台",澳洲新闻台BloombergAunew
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="海外台",马来西亚华丽台astro-awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:-1 group-title="海外台",日本購物QVC
+http://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="海外台",土耳其TRT-World-1080P
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 group-title="海外台",卡塔尔半岛电视台aljazeera-eng-hd-1080P
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="海外台",俄罗斯igi-tv-1080P
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="海外台",俄罗斯-Новое-Радио-ТВ电台TV1080P
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="海外台",México-Milenio-TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="海外台",韩国电视网(TV-chosun)
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="海外台",Korea-CBS-TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 group-title="海外台",Korea-TV-Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",Japanet-Channel-DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 group-title="海外台",韩国GoodTV
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外台",韩国chosunTV
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",韩国阿里郎直播源
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外台",印度india-TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 group-title="海外台",India-TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1 group-title="海外台",巴基斯坦PTV
+http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
+#EXTINF:-1 group-title="海外台",巴基斯坦新闻
+http://67.231.248.131:1935/live/PTVnews/player.m3u8
+#EXTINF:-1 group-title="海外台",泰国ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",泰国SUVARNABHUMI
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1 group-title="海外台",CHANNEL-2-low
+http://stream.rs.co.th/ch2-low/index.m3u8
+#EXTINF:-1 group-title="海外台",CHANNEL-8-low
+http://stream.rs.co.th/ch8-low/index.m3u8
+#EXTINF:-1 group-title="海外台",泰国ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外台",泰国SUVARNABHUMI
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1 group-title="海外台",罗马尼亚Digi24
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 group-title="海外台",INDIA-TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 
 #EXTINF:-1 group-title="虎牙电影",电影-周星驰
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
